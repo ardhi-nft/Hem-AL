@@ -1,5 +1,6 @@
 <p style="font-size:14px" align="right">
-<a href="https://t.me/impulseairdrop" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+<a href="https://t.me/impulseairdrop" target="_blank">Join our telegram <img src="![image](https://github.com/user-attachments/assets/c49ab223-abff-4ede-a6cf-405270f42093)
+" width="30"/></a>
 </p>
 
 <p align="center">
