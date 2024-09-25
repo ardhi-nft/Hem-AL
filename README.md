@@ -9,13 +9,7 @@
 # HEMI PILOT BOT TASK | Auto Tunnel Bridge and SWAP
 
 ## Install Node JS
-- For Linux/VPS
-  ```
-  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
-  ```
-  ```
-  nvm install 22
-  ```
+
 - For Termux
   ```
   pkg install nodejs
