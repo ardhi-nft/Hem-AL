@@ -25,7 +25,7 @@
 git clone 
 ```
 ```
-cd hemi-bot
+cd hemi-al
 ```
 ```
 npm install viem
