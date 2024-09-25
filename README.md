@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img height="300" height="auto" src="![image](![photo_2024-09-23_21-50-28](https://github.com/user-attachments/assets/77cedb42-29d1-49e7-94f0-799b9cd3a537)
+  <img height="300" height="auto" src="!![photo_2024-09-23_21-50-28](https://github.com/user-attachments/assets/b473e604-8849-4010-b09c-aa12974e6ae4)
+
 )
 ">
 </p>
