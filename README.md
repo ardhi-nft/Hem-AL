@@ -3,8 +3,6 @@
 " width="30"/></a>
 </p>
 
-<p align="center">
-  <img height="300" height="auto" src="!![photo_2024-09-23_21-50-28](https://github.com/user-attachments/assets/b473e604-8849-4010-b09c-aa12974e6ae4)
 
 )
 ">
