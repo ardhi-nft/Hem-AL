@@ -22,7 +22,7 @@
   ```
 
 ```
-git clone 
+git clone https://github.com/ardhi-nft/hemi-al
 ```
 ```
 cd hemi-al
