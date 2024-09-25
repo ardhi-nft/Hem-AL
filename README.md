@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img height="300" height="auto" src="https://user-images.githubusercontent.com/109174478/209359981-dc19b4bf-854d-4a2a-b803-2547a7fa43f2.jpg">
+  <img height="300" height="auto" src="![image](https://github.com/user-attachments/assets/7bb0620a-2fc5-494b-9353-beb5c2646025)
+">
 </p>
 
 # HEMI PILOT BOT TASK | Auto Tunnel Bridge and SWAP
